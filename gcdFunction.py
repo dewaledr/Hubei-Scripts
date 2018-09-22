@@ -8,5 +8,5 @@ def gcd(a,b):
     return a
 
 print(gcd(50,20))
-print(gcd(20, 50))  # It does not matter wheter a or b is bigger
+print(f"reConfirm: {gcd(20, 50)}")  # It does not matter wheter a or b is bigger
 print(gcd(22, 143))        
